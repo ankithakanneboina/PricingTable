@@ -3,16 +3,28 @@
 A clean, modern, and fully responsive Pricing Table UI built using only HTML and CSS.
 Designed to showcase sleek visual presentation, responsive layouts, and attention to UI/UX detail — perfect for portfolios and front-end developer resumes.
 💡 The layout automatically adapts to all screen sizes, from large desktops to mobile devices, using a mobile-first approach.
+
+
 🚀 Live Demo
 🔗 View Demo:http://127.0.0.1:5500/index.html
+
+
 ✨ Features
 💡 Responsive Layout — Perfectly adapts to any device size.
+
 🎨 Modern UI Design — Clean, minimal, and recruiter-friendly.
+
 🧩 3 Pricing Plans — Example plans like Free, Pro, and Enterprise.
+
+
 ⚡ Hover Effects — Interactive animations using pure CSS.
+
 🌈 Customizable — Easy to change colors, fonts, and plan details.
+
 ♿ Accessible Markup — Built with semantic HTML for better accessibility.
+
 🔍 Highlight Plan Option — “Most Popular” or “Recommended” plan styling.
+
 🧩 Use Cases
 You can use this pricing table component for:
 SaaS product landing pages
