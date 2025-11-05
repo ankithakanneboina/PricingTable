@@ -78,12 +78,11 @@ Front-end creativity with minimal dependencies
 Recruiters often look for visual polish + technical simplicity.
 A pricing table project is a perfect showcase of layout skills.
 
-📸 Screenshots Section Tips
-
-👉 Save your screenshots inside a folder named screenshots/ in your project directory.
-Recommended filenames:
 
 📸 Screenshots
+![Desktop View](./screenshots/priceop.png)
+![Mobile View](./screenshots/priceop.png)
+
 screenshots/
 ├── desktop-priceop.png
 └── mobile-priceop.png
